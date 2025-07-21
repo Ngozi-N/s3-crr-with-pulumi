@@ -28,10 +28,10 @@ Pulumi provisions:
 
 Everything is fully automated and reusable using Pulumi's code-based approach.
 
-**Learn More**
+## Learn More
 Read the detailed Medium guide - [Medium](https://medium.com/@nwadialongozi/automating-s3-cross-region-replication-crr-with-pulumi-step-by-step-guide-03a81e1ec8e9)
 
-**Author**
+## Author
 Ngozi Nwadialo – [GitHub](https://github.com/Ngozi-N)
 
 
